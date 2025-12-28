@@ -15,12 +15,11 @@ public class Ejer_2 {
 
 		scan.close();
 
-		if (anyo % 4 == 0 && anyo % 100 == 0 && anyo % 400 == 0) {
-			
+		if (anyo % 4 == 0 || anyo % 100 == 0 || anyo % 400 == 0) {
+
 			System.out.println("El año " + anyo + " es bisiesto");
-			
+
 		} else {
-			
 			System.out.println("El año " + anyo + " no es bisiesto");
 		}
 
