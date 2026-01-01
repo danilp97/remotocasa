@@ -318,34 +318,34 @@ public class Ejerc_31 {
 			}
 		} else if (n >= 90 && n <= 99) {
 			switch (n) {
-			case 80:
+			case 90:
 				System.out.println("Tu número es noventa");
 				break;
-			case 81:
+			case 91:
 				System.out.println("Tu número es noventa y uno");
 				break;
-			case 82:
+			case 92:
 				System.out.println("Tu número es noventa y dos");
 				break;
-			case 83:
+			case 93:
 				System.out.println("Tu número es noventa y tres");
 				break;
-			case 84:
+			case 94:
 				System.out.println("Tu número es noventa y cuatro");
 				break;
-			case 85:
+			case 95:
 				System.out.println("Tu número es noventa y cinco");
 				break;
-			case 86:
+			case 96:
 				System.out.println("Tu número es noventa y seis");
 				break;
-			case 87:
+			case 97:
 				System.out.println("Tu número es noventa y siete");
 				break;
-			case 88:
+			case 98:
 				System.out.println("Tu número es noventa y ocho");
 				break;
-			case 89:
+			case 99:
 				System.out.println("Tu número es noventa y nueve");
 				break;
 			}
